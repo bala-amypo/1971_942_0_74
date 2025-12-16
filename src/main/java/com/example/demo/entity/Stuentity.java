@@ -46,5 +46,4 @@ public class Stuentity{
     public Stuentity(){
         
     }
-
 }
